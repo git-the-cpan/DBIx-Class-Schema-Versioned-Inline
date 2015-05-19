@@ -1,5 +1,21 @@
 Revision history for DBIx::Class::Schema::Versioned::Inline
 
+0.200 Tue May 19 10:14:04 CEST 2015
+
+    [ENHANCEMENTS]
+
+    * Start using Safe::Isa and Types::PerlVersion
+
+    [BUGS]
+
+    * all version comparisons now use Types::PerlVersion coercions to ensure
+      that we handle all version numbers in a uniform fashion.
+
+    [DOCUMENTATION]
+
+    * Add VERSION NUMBERS section to explain the potential dangers with mixed
+      version formats.
+
 0.025 Sun Oct 26 17:18:28 CET 2014
 
     [TESTS]
