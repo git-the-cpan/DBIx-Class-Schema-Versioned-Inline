@@ -34,4 +34,4 @@ requires:
   perl: '5.006'
 resources:
   IRC: irc://irc.perl.org/#dbix-class
-version: '0.200'
+version: '0.201'
