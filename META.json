@@ -53,5 +53,5 @@
    "resources" : {
       "x_IRC" : "irc://irc.perl.org/#dbix-class"
    },
-   "version" : "0.201"
+   "version" : "0.203"
 }
