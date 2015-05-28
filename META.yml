@@ -14,7 +14,7 @@ configure_requires:
   DBIx::Class: '0.082820'
   ExtUtils::MakeMaker: '0'
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 7.04, CPAN::Meta::Converter version 2.142060'
+generated_by: 'ExtUtils::MakeMaker version 7.04, CPAN::Meta::Converter version 2.150001'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -34,4 +34,4 @@ requires:
   perl: '5.006'
 resources:
   IRC: irc://irc.perl.org/#dbix-class
-version: '0.203'
+version: '0.204'
